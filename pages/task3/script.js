@@ -19,5 +19,3 @@ function makeRed() {
     trafficLightEl.removeEventListener('click', makeRed);
     trafficLightEl.addEventListener('click', makeGreen);
 }
-
-
