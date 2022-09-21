@@ -31,9 +31,10 @@ article h3 {
 }
 
 article button {
-    height: 20px;
+    padding: 10px;
     margin-bottom: 5px;
-    color: cornflowerblue;
+    background-color: cornflowerblue;
+    color: white;
 }
 
 footer {
