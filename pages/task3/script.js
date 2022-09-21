@@ -1,8 +1,6 @@
 const trafficLightEl = document.querySelector('#trafficLight');
 
 trafficLightEl.addEventListener('click', makeGreen);
-trafficLightEl.addEventListener('click', makeYellow);
-trafficLightEl.addEventListener('click', makeRed);
 
 function makeGreen() {
     trafficLightEl.style.background = ('green');
